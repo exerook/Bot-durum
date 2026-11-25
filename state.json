@@ -1,0 +1,61 @@
+{
+ "trades": {},
+ "last_bar": {
+  "A": 498765,
+  "B": 124694
+ },
+ "day": "2026-11-25",
+ "trades_today": 0,
+ "pct_today": 0.0,
+ "last_scan": "2026-11-25T08:00:39+00:00",
+ "r3": {
+  "w": 0.4,
+  "w_day": "2026-11-25"
+ },
+ "m2_day": "2026-11-25",
+ "m2": {
+  "TRB-USDT": {
+   "side": "LONG",
+   "qty": 315.71,
+   "entry": 12.468,
+   "key": "cb1M295599443TRB",
+   "day": "2026-11-25"
+  },
+  "LTC-USDT": {
+   "side": "LONG",
+   "qty": 105.7,
+   "entry": 40.44,
+   "key": "cb1M295599443LTC",
+   "day": "2026-11-25"
+  },
+  "LINK-USDT": {
+   "side": "LONG",
+   "qty": 457.4,
+   "entry": 8.654,
+   "key": "cb1M295599443LINK",
+   "day": "2026-11-25"
+  },
+  "ZRO-USDT": {
+   "side": "SHORT",
+   "qty": 2688.832,
+   "entry": 0.9953,
+   "key": "cb1M295599443ZRO",
+   "day": "2026-11-25"
+  },
+  "DYM-USDT": {
+   "side": "SHORT",
+   "qty": 454768.5,
+   "entry": 0.01086,
+   "key": "cb1M295599443DYM",
+   "day": "2026-11-25"
+  },
+  "AAVE-USDT": {
+   "side": "SHORT",
+   "qty": 49.2,
+   "entry": 91.7,
+   "key": "cb1M295599443AAVE",
+   "day": "2026-11-25"
+  }
+ },
+ "m2_rec_ms": 1795605130619
+}

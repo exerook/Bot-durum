@@ -1,0 +1,171 @@
+Nov 24 21:34:15 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 24 21:34:16 ubuntu-1gb-fsn1-1 python[2757]: 2026-11-24 21:34:16 Bot basladi | DEMO (VST) | bakiye 41164.29 USDT | risk/islem: A %0.3, B %1.0 | piramit acik (B, en fazla 4 birim) | strateji basi max 5 acik
+Nov 24 21:34:37 ubuntu-1gb-fsn1-1 python[2757]: 2026-11-24 21:34:37 A taramasi bitti: 0 sinyal
+Nov 24 21:34:58 ubuntu-1gb-fsn1-1 python[2757]: 2026-11-24 21:34:58 B taramasi bitti: 0 sinyal
+Nov 24 21:37:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 24 21:37:37 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 24 21:37:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 24 21:37:37 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 2.428s CPU time over 3min 22.559s wall clock time, 61.6M memory peak.
+Nov 24 21:37:37 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 24 21:37:38 ubuntu-1gb-fsn1-1 python[2800]: 2026-11-24 21:37:38 Bot basladi | DEMO (VST) | bakiye 41164.29 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | strateji basi max 5 acik
+Nov 24 21:42:49 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 24 21:42:49 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 24 21:42:49 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 24 21:42:49 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 24 21:42:50 ubuntu-1gb-fsn1-1 python[3208]: 2026-11-24 21:42:50 Bot basladi | DEMO (VST) | bakiye 41164.29 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | strateji basi max 5 acik
+Nov 25 00:00:39 ubuntu-1gb-fsn1-1 python[3208]: 2026-11-25 00:00:39 Evren (30 gun ort. hacim, 38 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, NEAR-USDT, XRP-USDT, NCSINASDAQ1002USD-USDT, HYPE-USDT, AVAX-USDT, UNI-USDT, BNB-USDT, NCSKNVDA2USD-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, NCSKSOXL2USD-USDT, ORDI-USDT, JTO-USDT, ONDO-USDT, TRB-USDT, COMP-USDT, DYM-USDT, ZRO-USDT, CFX-USDT, TRX-USDT, CRV-USDT, PENDLE-USDT, FLOKI-USDT
+Nov 25 00:01:11 ubuntu-1gb-fsn1-1 python[3208]: 2026-11-25 00:01:11 B taramasi bitti: 0 sinyal
+Nov 25 04:00:50 ubuntu-1gb-fsn1-1 python[3208]: 2026-11-25 04:00:50 B taramasi bitti: 0 sinyal
+Nov 25 04:47:28 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 25 04:47:28 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 25 04:47:28 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 25 04:47:28 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 6.814s CPU time over 7h 4min 38.664s wall clock time, 63M memory peak.
+Nov 25 04:47:28 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 25 04:47:29 ubuntu-1gb-fsn1-1 python[9603]: 2026-11-25 04:47:29 Bot basladi | DEMO (VST) | bakiye 41164.29 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | strateji basi max 5 acik
+Nov 25 04:49:43 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 25 04:49:44 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 25 04:49:44 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 25 04:49:44 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 25 04:49:45 ubuntu-1gb-fsn1-1 python[32537]: 2026-11-25 04:49:45 Bot basladi | DEMO (VST) | bakiye 41164.29 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | strateji basi max 5 acik
+Nov 25 08:01:11 ubuntu-1gb-fsn1-1 python[32537]: 2026-11-25 08:01:11 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, NEAR-USDT, XRP-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, BNB-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, LTC-USDT, ARB-USDT, ORDI-USDT, JTO-USDT, TAO-USDT, ONDO-USDT, TRB-USDT, ENA-USDT, COMP-USDT, DYM-USDT, ZRO-USDT
+Nov 25 08:01:38 ubuntu-1gb-fsn1-1 python[32537]: 2026-11-25 08:01:38 B taramasi bitti: 0 sinyal
+Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 4.585s CPU time over 4h 47min 37.399s wall clock time, 67.6M memory peak.
+Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 25 09:37:23 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:23 R3 agirlik: BTC/EMA200 = 0.799 -> v1.0 %40 / M2 %60
+Nov 25 09:37:23 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:23 R3 agirlik degisti: v1.0 %70 -> %40
+Nov 25 09:37:23 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:23 Bot basladi | DEMO (VST) | bakiye 41164.29 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
+Nov 25 09:37:39 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:39 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, NEAR-USDT, XRP-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, BNB-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, LTC-USDT, ARB-USDT, ORDI-USDT, JTO-USDT, TAO-USDT, ONDO-USDT, TRB-USDT, ENA-USDT, COMP-USDT, DYM-USDT, ZRO-USDT
+Nov 25 09:37:46 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:46 M2 sira: ilk3 ['TRB-USDT', 'LTC-USDT', 'LINK-USDT'] | son3 ['AAVE-USDT', 'DYM-USDT', 'ZRO-USDT'] | v1.0 payi %40
+Nov 25 09:37:52 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:52 M2 ACILDI TRB-USDT LONG | 315.71 adet ~3,936 USDT | stop %12
+Nov 25 09:37:57 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:57 M2 ACILDI LTC-USDT LONG | 105.7 adet ~4,275 USDT | stop %12
+Nov 25 09:38:02 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:02 M2 ACILDI LINK-USDT LONG | 457.4 adet ~3,958 USDT | stop %12
+Nov 25 09:38:07 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:07 M2 ACILDI ZRO-USDT SHORT | 2688.83 adet ~2,676 USDT | stop %12
+Nov 25 09:38:12 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:12 M2 ACILDI DYM-USDT SHORT | 454768 adet ~4,939 USDT | stop %12
+Nov 25 09:38:17 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:17 M2 ACILDI AAVE-USDT SHORT | 49.2 adet ~4,512 USDT | stop %12
+Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 920ms CPU time over 6min 32.883s wall clock time, 69.9M memory peak.
+Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 25 09:43:55 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:43:55 Bot basladi | DEMO (VST) | bakiye 41131.94 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
+Nov 25 09:44:00 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:00 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 09:44:02 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:02 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 09:44:04 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:04 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 09:44:06 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:06 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 09:44:08 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:08 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 09:44:10 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:10 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 09:49:01 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:01 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 09:49:03 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:03 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 09:49:06 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:06 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 09:49:08 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:08 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 09:49:11 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:11 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 09:49:14 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:14 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 09:54:05 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:05 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 09:54:08 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:08 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 09:54:11 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:11 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 09:54:13 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:13 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 09:54:16 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:16 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 09:54:18 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:18 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 25 09:55:39 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:55:39 Bot basladi | DEMO (VST) | bakiye 41127.45 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
+Nov 25 09:59:24 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:24 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 09:59:27 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:27 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 09:59:30 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:30 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 09:59:33 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:33 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 09:59:34 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:34 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 09:59:38 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:38 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:04:36 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:36 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:04:38 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:38 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:04:41 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:41 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:04:44 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:44 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:04:47 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:47 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:04:49 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:49 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:09:48 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:09:48 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:09:51 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:09:51 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:09:54 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:09:54 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:09:57 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:09:57 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:10:00 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:10:00 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:10:03 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:10:03 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:15:00 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:15:00 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:15:03 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:15:03 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:15:06 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:15:06 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:15:09 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:15:09 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:15:13 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:15:13 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:15:16 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:15:16 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:17:53 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 25 10:17:53 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 25 10:17:53 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 25 10:17:53 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 25 10:17:54 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:17:54 Bot basladi | DEMO (VST) | bakiye 41132.91 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
+Nov 25 10:20:15 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:20:15 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:20:19 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:20:19 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:20:22 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:20:22 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:20:25 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:20:25 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:20:28 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:20:28 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:20:30 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:20:30 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:25:26 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:25:26 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:25:28 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:25:28 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:25:31 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:25:31 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:25:34 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:25:34 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:25:36 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:25:36 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:25:39 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:25:39 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:30:34 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:30:34 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:30:37 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:30:37 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:30:40 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:30:40 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:30:43 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:30:43 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:30:46 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:30:46 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:30:49 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:30:49 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:35:38 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:35:38 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:35:40 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:35:40 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:35:41 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:35:41 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:35:43 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:35:43 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:35:45 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:35:45 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:35:48 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:35:48 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:41:03 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:41:03 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:41:06 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:41:06 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:41:10 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:41:10 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:41:13 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:41:13 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:41:16 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:41:16 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:41:19 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:41:19 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:46:17 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:46:17 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:46:20 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:46:20 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:46:22 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:46:22 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:46:25 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:46:25 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:46:28 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:46:28 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:46:31 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:46:31 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:51:27 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:51:27 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:51:30 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:51:30 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:51:33 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:51:33 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:51:36 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:51:36 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:51:38 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:51:38 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:51:41 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:51:41 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 10:56:38 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:56:38 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 10:56:40 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:56:40 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 10:56:42 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:56:42 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 10:56:45 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:56:45 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 10:56:47 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:56:47 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 10:56:50 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 10:56:50 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 11:01:48 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:01:48 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 11:01:49 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:01:49 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 11:01:49 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:01:49 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 11:01:50 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:01:50 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 11:01:51 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:01:51 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 11:01:51 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:01:51 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 11:07:00 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:07:00 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 11:07:01 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:07:01 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 11:07:01 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:07:01 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 11:07:02 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:07:02 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 11:07:03 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:07:03 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 11:07:03 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:07:03 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 11:12:11 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:11 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 25 11:12:12 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:12 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 25 11:12:13 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:13 M2 LINK-USDT: eksik stop yeniden konuldu
+Nov 25 11:12:13 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:13 M2 ZRO-USDT: eksik stop yeniden konuldu
+Nov 25 11:12:14 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:14 M2 DYM-USDT: eksik stop yeniden konuldu
+Nov 25 11:12:15 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:15 M2 AAVE-USDT: eksik stop yeniden konuldu
