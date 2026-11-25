@@ -169,3 +169,9 @@ Nov 25 11:12:13 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:13 M2 LINK-USD
 Nov 25 11:12:13 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:13 M2 ZRO-USDT: eksik stop yeniden konuldu
 Nov 25 11:12:14 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:14 M2 DYM-USDT: eksik stop yeniden konuldu
 Nov 25 11:12:15 ubuntu-1gb-fsn1-1 python[37950]: 2026-11-25 11:12:15 M2 AAVE-USDT: eksik stop yeniden konuldu
+Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 1.660s CPU time over 58min 6.745s wall clock time, 60.5M memory peak.
+Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 25 11:16:01 ubuntu-1gb-fsn1-1 python[39248]: 2026-11-25 11:16:01 Bot basladi | DEMO (VST) | bakiye 41165.23 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik

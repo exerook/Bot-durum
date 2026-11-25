@@ -1,12 +1,12 @@
-Wed Nov 25 11:14:22 AM UTC 2026
- 11:14:22 up 14:06,  2 users,  load average: 0.05, 0.10, 0.09
+Wed Nov 25 11:22:01 AM UTC 2026
+ 11:22:01 up 14:13,  2 users,  load average: 0.03, 0.07, 0.08
                total        used        free      shared  buff/cache   available
-Mem:             927         254         123           4         575         672
+Mem:             927         260         104           4         587         666
 Swap:           2047           0        2047
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.2G   14G  24% /
 ActiveState=active
-ActiveEnterTimestamp=Wed 2026-11-25 10:17:53 UTC
+ActiveEnterTimestamp=Wed 2026-11-25 11:16:00 UTC
 NRestarts=0
-heartbeat: 2026-11-25T11:14:18+00:00
-kod: fdb0703 Saatlik durum raporu (bot-durum deposu)
+heartbeat: 2026-11-25T11:21:47+00:00
+kod: d977f8f Stop eşleme: borsa etiket döndürmezse aynı yöndeki stoplar; M2 fazla stop temizliği; durum raporu düzeltmesi
