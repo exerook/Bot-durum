@@ -175,3 +175,5 @@ Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piram
 Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 1.660s CPU time over 58min 6.745s wall clock time, 60.5M memory peak.
 Nov 25 11:16:00 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
 Nov 25 11:16:01 ubuntu-1gb-fsn1-1 python[39248]: 2026-11-25 11:16:01 Bot basladi | DEMO (VST) | bakiye 41165.23 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
+Nov 25 12:01:03 ubuntu-1gb-fsn1-1 python[39248]: 2026-11-25 12:01:03 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, NEAR-USDT, XRP-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, BNB-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, LTC-USDT, ARB-USDT, ORDI-USDT, JTO-USDT, TAO-USDT, ONDO-USDT, ENA-USDT, COMP-USDT, DYM-USDT, ZRO-USDT, JUP-USDT
+Nov 25 12:01:33 ubuntu-1gb-fsn1-1 python[39248]: 2026-11-25 12:01:33 B taramasi bitti: 0 sinyal
