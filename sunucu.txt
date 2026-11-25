@@ -1,12 +1,12 @@
-Wed Nov 25 03:07:01 PM UTC 2026
- 15:07:01 up 17:58,  0 users,  load average: 0.06, 0.09, 0.09
+Wed Nov 25 04:07:01 PM UTC 2026
+ 16:07:01 up 18:58,  0 users,  load average: 0.04, 0.07, 0.08
                total        used        free      shared  buff/cache   available
-Mem:             927         243          99           4         610         684
+Mem:             927         249          90           4         612         677
 Swap:           2047           0        2047
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.2G   14G  24% /
 ActiveState=active
 ActiveEnterTimestamp=Wed 2026-11-25 12:11:58 UTC
 NRestarts=0
-heartbeat: 2026-11-25T15:06:58+00:00
+heartbeat: 2026-11-25T16:07:00+00:00
 kod: ef25162 Emir etiketi karşılaştırması küçük harf (BingX clientOrderId'yi küçültüyor)
