@@ -1,21 +1,21 @@
-# Bot durumu — 2026-11-26 03:07 UTC
+# Bot durumu — 2026-11-26 04:07 UTC
 
 Mod: DEMO (VST)
-Bakiye (özsermaye): 41,251.51 USDT · kullanılabilir 34,535.64 USDT
+Bakiye (özsermaye): 41,342.03 USDT · kullanılabilir 34,535.64 USDT
 R3 ağırlık: v1.0 %40 / M2 %60 (son güncelleme 2026-11-25)
-Son tarama: 2026-11-26T00:00:25+00:00 · M2 son dengeleme: 2026-11-26
+Son tarama: 2026-11-26T04:00:20+00:00 · M2 son dengeleme: 2026-11-26
 
 ## Borsadaki açık pozisyonlar
 
 | Coin | Yön | Adet | Giriş | Şimdi | Anlık K/Z (USDT) | Sahibi |
 |---|---|---|---|---|---|---|
-| TRB-USDT | LONG | 315.71 | 12.468 | 12.680 | +66.80 | M2 |
-| LTC-USDT | LONG | 105.7 | 40.44 | 43.47 | +320.26 | M2 |
-| LINK-USDT | LONG | 457.4 | 8.654 | 9.167 | +234.64 | M2 |
-| ZRO-USDT | SHORT | 2688.832 | 0.9953 | 1.0495 | -145.59 | M2 |
-| AAVE-USDT | SHORT | 49.2 | 91.70 | 95.99 | -211.06 | M2 |
+| TRB-USDT | LONG | 315.71 | 12.468 | 12.701 | +73.28 | M2 |
+| LTC-USDT | LONG | 105.7 | 40.44 | 43.93 | +368.88 | M2 |
+| LINK-USDT | LONG | 457.4 | 8.654 | 9.219 | +258.30 | M2 |
+| ZRO-USDT | SHORT | 2688.832 | 0.9953 | 1.0509 | -149.24 | M2 |
+| AAVE-USDT | SHORT | 49.2 | 91.70 | 95.69 | -196.15 | M2 |
 
-Toplam anlık K/Z: +265.04 USDT
+Toplam anlık K/Z: +355.07 USDT
 
 ## Açık emirler (özet)
 

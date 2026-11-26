@@ -192,3 +192,4 @@ Nov 26 00:01:56 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 00:01:56 M2 sira: il
 Nov 26 00:01:59 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 00:01:59 M2 DYM-USDT kapatma hatasi: BingX 109400: order not exist
 Nov 26 00:01:59 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 00:01:59 M2 denge tamam: long ~12,169 / short ~12,127 USDT
 Nov 26 00:02:01 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 00:02:01 M2 KAPANDI DYM-USDT SHORT (stop)
+Nov 26 04:00:47 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 04:00:47 B taramasi bitti: 0 sinyal
