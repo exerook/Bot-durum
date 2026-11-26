@@ -224,3 +224,4 @@ Nov 26 07:13:30 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 07:13:30 Bot basladi
 Nov 26 08:00:57 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 08:00:57 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, BNB-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, LTC-USDT, ONDO-USDT, TRB-USDT, JTO-USDT, ARB-USDT, TAO-USDT, ENA-USDT, COMP-USDT, DYM-USDT, ZRO-USDT
 Nov 26 08:01:25 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 08:01:25 B taramasi bitti: 0 sinyal
 Nov 26 12:01:00 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 12:01:00 B taramasi bitti: 0 sinyal
+Nov 26 16:00:58 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 16:00:58 B taramasi bitti: 0 sinyal
