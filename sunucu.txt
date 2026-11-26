@@ -1,12 +1,12 @@
-Thu Nov 26 06:07:01 AM UTC 2026
- 06:07:01 up 1 day,  8:58,  0 users,  load average: 0.22, 0.12, 0.10
+Thu Nov 26 07:07:01 AM UTC 2026
+ 07:07:01 up 1 day,  9:58,  0 users,  load average: 0.03, 0.05, 0.07
                total        used        free      shared  buff/cache   available
-Mem:             927         247          54           4         650         679
-Swap:           2047           0        2047
+Mem:             927         240         246           4         465         686
+Swap:           2047           1        2046
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.2G   14G  24% /
 ActiveState=active
-ActiveEnterTimestamp=Wed 2026-11-25 12:11:58 UTC
+ActiveEnterTimestamp=Thu 2026-11-26 06:38:25 UTC
 NRestarts=0
-heartbeat: 2026-11-26T06:06:46+00:00
-kod: ef25162 Emir etiketi karşılaştırması küçük harf (BingX clientOrderId'yi küçültüyor)
+heartbeat: 2026-11-26T07:06:50+00:00
+kod: 1392aec Demo notları: 9 Aralık mutabakatı için olaylar
