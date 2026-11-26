@@ -215,3 +215,11 @@ Nov 26 06:49:15 ubuntu-1gb-fsn1-1 python[50922]: 2026-11-26 06:49:15 M2 LTC-USDT
 Nov 26 06:49:16 ubuntu-1gb-fsn1-1 python[50922]: 2026-11-26 06:49:16 M2 LINK-USDT: stop konamadi (BingX 109501: network issue, please retry later), pozisyon kapatildi
 Nov 26 06:49:18 ubuntu-1gb-fsn1-1 python[50922]: 2026-11-26 06:49:18 M2 ZRO-USDT: stop konamadi (BingX 109501: network issue, please retry later), pozisyon kapatildi
 Nov 26 06:49:19 ubuntu-1gb-fsn1-1 python[50922]: 2026-11-26 06:49:19 M2 AAVE-USDT: stop konamadi (BingX 109501: network issue, please retry later), pozisyon kapatildi
+Nov 26 07:13:28 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 26 07:13:28 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 26 07:13:28 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 26 07:13:28 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 1.018s CPU time over 35min 3.747s wall clock time, 71.3M memory peak.
+Nov 26 07:13:28 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 26 07:13:30 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 07:13:30 Bot basladi | DEMO (VST) | bakiye 41179.81 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
+Nov 26 08:00:57 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 08:00:57 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, BNB-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, LTC-USDT, ONDO-USDT, TRB-USDT, JTO-USDT, ARB-USDT, TAO-USDT, ENA-USDT, COMP-USDT, DYM-USDT, ZRO-USDT
+Nov 26 08:01:25 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 08:01:25 B taramasi bitti: 0 sinyal

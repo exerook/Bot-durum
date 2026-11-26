@@ -1,12 +1,12 @@
-Thu Nov 26 07:07:01 AM UTC 2026
- 07:07:01 up 1 day,  9:58,  0 users,  load average: 0.03, 0.05, 0.07
+Thu Nov 26 08:07:02 AM UTC 2026
+ 08:07:02 up 1 day, 10:58,  0 users,  load average: 0.16, 0.13, 0.10
                total        used        free      shared  buff/cache   available
-Mem:             927         240         246           4         465         686
+Mem:             927         250         211           4         495         677
 Swap:           2047           1        2046
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.2G   14G  24% /
 ActiveState=active
-ActiveEnterTimestamp=Thu 2026-11-26 06:38:25 UTC
+ActiveEnterTimestamp=Thu 2026-11-26 07:13:28 UTC
 NRestarts=0
-heartbeat: 2026-11-26T07:06:50+00:00
-kod: 1392aec Demo notları: 9 Aralık mutabakatı için olaylar
+heartbeat: 2026-11-26T08:07:01+00:00
+kod: d8348b5 M2: gecici borsa hatasinda pozisyon kapatma (3 tur kurali)

@@ -1,9 +1,9 @@
-# Bot durumu — 2026-11-26 07:07 UTC
+# Bot durumu — 2026-11-26 08:07 UTC
 
 Mod: DEMO (VST)
 Bakiye (özsermaye): 41,179.81 USDT · kullanılabilir 41,179.81 USDT
 R3 ağırlık: v1.0 %40 / M2 %60 (son güncelleme 2026-11-25)
-Son tarama: 2026-11-26T04:00:20+00:00 · M2 son dengeleme: 2026-11-26
+Son tarama: 2026-11-26T08:00:33+00:00 · M2 son dengeleme: 2026-11-26
 
 ## Borsadaki açık pozisyonlar
 
