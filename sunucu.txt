@@ -1,12 +1,12 @@
-Thu Nov 26 10:07:01 AM UTC 2026
- 10:07:01 up 1 day, 12:58,  0 users,  load average: 0.08, 0.08, 0.07
+Thu Nov 26 11:07:01 AM UTC 2026
+ 11:07:01 up 1 day, 13:58,  0 users,  load average: 0.03, 0.05, 0.07
                total        used        free      shared  buff/cache   available
-Mem:             927         249         205           4         502         678
+Mem:             927         252         201           4         503         674
 Swap:           2047           1        2046
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.2G   14G  24% /
 ActiveState=active
 ActiveEnterTimestamp=Thu 2026-11-26 07:13:28 UTC
 NRestarts=0
-heartbeat: 2026-11-26T10:06:47+00:00
+heartbeat: 2026-11-26T11:06:56+00:00
 kod: d8348b5 M2: gecici borsa hatasinda pozisyon kapatma (3 tur kurali)
