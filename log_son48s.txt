@@ -92,3 +92,73 @@ Nov 27 13:45:51 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piram
 Nov 27 13:45:53 ubuntu-1gb-fsn1-1 python[92688]: 2026-11-27 13:45:53 Bot basladi | DEMO (VST) | bakiye 40478.62 USDT | risk/islem: T %1.0 | strateji basi max 1 acik
 Nov 27 13:46:10 ubuntu-1gb-fsn1-1 python[92688]: 2026-11-27 13:46:10 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
 Nov 27 13:46:36 ubuntu-1gb-fsn1-1 python[92688]: 2026-11-27 13:46:36 T taramasi bitti: 0 sinyal
+Nov 27 14:08:04 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 14:08:04 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 14:08:04 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 14:08:04 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 1.845s CPU time over 22min 12.703s wall clock time, 71.8M memory peak.
+Nov 27 14:08:04 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 14:08:05 ubuntu-1gb-fsn1-1 python[93754]: 2026-11-27 14:08:05 Bot basladi | DEMO (VST) | bakiye 40478.62 USDT | risk/islem: T %1.0 | strateji basi max 1 acik
+Nov 27 14:08:23 ubuntu-1gb-fsn1-1 python[93754]: 2026-11-27 14:08:23 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 14:08:45 ubuntu-1gb-fsn1-1 python[93754]: 2026-11-27 14:08:45 T taramasi bitti: 30 sinyal
+Nov 27 14:08:47 ubuntu-1gb-fsn1-1 python[93754]: 2026-11-27 14:08:47 ACILDI [T] TRB-USDT SHORT | giris 13.526 stop 14.1946 hedef yok, stop iz surer | 2875.54 adet, 1x, risk 1922.73 USDT (%4.75)
+Nov 27 14:29:17 ubuntu-1gb-fsn1-1 python[93754]: 2026-11-27 14:29:17 KAPANDI [T] TRB-USDT SHORT | yaklasik -1.00R (-1922.73 USDT) | bugun %-4.75
+Nov 27 14:38:40 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 14:38:40 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 14:38:40 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 14:38:40 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 2.057s CPU time over 30min 35.713s wall clock time, 60.7M memory peak.
+Nov 27 14:38:41 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 14:38:42 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:38:42 Bot basladi | DEMO (VST) | bakiye 40591.71 USDT | risk/islem: T %1.0 | strateji basi max 1 acik
+Nov 27 14:39:02 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:39:02 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 14:39:27 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:39:27 T taramasi bitti: 30 sinyal
+Nov 27 14:39:29 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:39:29 ACILDI [T] COMP-USDT SHORT | giris 17.93 stop 18.6818 hedef yok, stop iz surer | 6380.93 adet, 3x, risk 4797.12 USDT (%11.82)
+Nov 27 14:50:25 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:50:25 COMP-USDT: eksik stop yeniden konuldu (18.6818)
+Nov 27 14:50:46 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:50:46 COMP-USDT: eksik stop yeniden konuldu (18.6818)
+Nov 27 14:51:07 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:51:07 COMP-USDT: eksik stop yeniden konuldu (18.6818)
+Nov 27 14:52:09 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:52:09 KAPANDI [T] COMP-USDT SHORT | yaklasik +0.09R (+446.67 USDT) | bugun %+1.10
+Nov 27 14:52:29 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:52:29 T taramasi bitti: 29 sinyal
+Nov 27 14:52:31 ubuntu-1gb-fsn1-1 python[95095]: 2026-11-27 14:52:31 ACILDI [T] BNB-USDT SHORT | giris 546.4 stop 568.94 hedef yok, stop iz surer | 203.99 adet, 3x, risk 4597.85 USDT (%11.39)
+Nov 27 14:54:11 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 14:54:11 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 14:54:11 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 14:54:11 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 2.947s CPU time over 15min 29.880s wall clock time, 61.9M memory peak.
+Nov 27 14:54:13 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 14:54:14 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:54:14 Bot basladi | DEMO (VST) | bakiye 40159.00 USDT | risk/islem: T %1.0 | strateji basi max 1 acik
+Nov 27 14:57:20 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:57:20 BNB-USDT: eksik stop yeniden konuldu (568.94)
+Nov 27 14:58:21 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:58:21 BNB-USDT: eksik stop yeniden konuldu (568.94)
+Nov 27 14:59:03 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:03 KAPANDI [T] BNB-USDT SHORT | yaklasik -0.04R (-161.15 USDT) | bugun %-0.40
+Nov 27 14:59:22 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:22 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 14:59:45 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:45 T taramasi bitti: 28 sinyal
+Nov 27 14:59:46 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:46 [T] BTC-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:47 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:47 [T] TRB-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:48 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:48 [T] LTC-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:49 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:49 [T] LINK-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:50 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:50 [T] ZRO-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:51 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:51 [T] BCH-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:53 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:53 [T] ORDI-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:54 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:54 [T] XRP-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 14:59:55 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 14:59:55 [T] DYM-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:00:28 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:00:28 kovala ZEC-USDT: tur 1 dolmadı, fiyat takip ediliyor
+Nov 27 15:01:00 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:01:00 kovala ZEC-USDT: tur 2 dolmadı, fiyat takip ediliyor
+Nov 27 15:01:33 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:01:33 kovala ZEC-USDT: tur 3 dolmadı, fiyat takip ediliyor
+Nov 27 15:01:33 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:01:33 kovala ZEC-USDT: doldu 12.297 | ort 723.833 | kayma +3.1 bp | maker payı %100
+Nov 27 15:01:33 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:01:33 ACILDI [T] ZEC-USDT SHORT | giris 723.83 stop 761.633 hedef yok, stop iz surer | 12.297 adet, 3x, risk 464.86 USDT (%14.25)
+Nov 27 15:02:15 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:15 KAPANDI [T] ZEC-USDT SHORT | yaklasik +0.07R (+34.68 USDT) | bugun %+0.66
+Nov 27 15:02:33 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:33 T taramasi bitti: 18 sinyal
+Nov 27 15:02:34 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:34 [T] WLD-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:35 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:35 [T] HYPE-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:36 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:36 [T] ENA-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:37 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:37 [T] ARB-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:39 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:39 [T] DOGE-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:40 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:40 [T] SUI-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:41 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:41 [T] ADA-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:42 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:42 [T] UNI-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:43 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:43 [T] INJ-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:44 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:44 [T] ONDO-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:45 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:45 [T] SOL-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:47 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:47 [T] AVAX-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:48 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:48 [T] NEAR-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:49 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:49 [T] AAVE-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:50 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:50 [T] ETH-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:51 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:51 [T] 1000PEPE-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:52 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:52 [T] TAO-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
+Nov 27 15:02:53 ubuntu-1gb-fsn1-1 python[95834]: 2026-11-27 15:02:53 [T] JTO-USDT SHORT giris iptal: fiyat 1 ATR'den fazla kaçtı (geç kalındı) -> siradaki aday
