@@ -1,12 +1,12 @@
-Fri Nov 27 08:07:01 AM UTC 2026
- 08:07:01 up 2 days, 10:58,  0 users,  load average: 0.05, 0.07, 0.08
+Fri Nov 27 09:07:14 AM UTC 2026
+ 09:07:14 up 2 days, 11:59,  0 users,  load average: 0.07, 0.11, 0.09
                total        used        free      shared  buff/cache   available
-Mem:             927         299          93           4         567         627
+Mem:             927         267         146           4         539         660
 Swap:           2047           1        2046
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.3G   14G  24% /
 ActiveState=active
 ActiveEnterTimestamp=Thu 2026-11-26 07:13:28 UTC
 NRestarts=0
-heartbeat: 2026-11-27T08:06:45+00:00
+heartbeat: 2026-11-27T09:07:14+00:00
 kod: 09f89bf Panel: Acik Minimal tasarim + yeni ikon

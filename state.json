@@ -19,45 +19,51 @@
    "qty": 303.53,
    "entry": 13.586,
    "key": "cb1M295737706TRB",
-   "day": "2026-11-27"
+   "day": "2026-11-27",
+   "stop_fail": 3
   },
   "LTC-USDT": {
    "side": "LONG",
    "qty": 99.3,
    "entry": 43.91,
    "key": "cb1M295737706LTC",
-   "day": "2026-11-27"
+   "day": "2026-11-27",
+   "stop_fail": 2
   },
   "BCH-USDT": {
    "side": "LONG",
    "qty": 18.54,
    "entry": 210.55,
    "key": "cb1M295737706BCH",
-   "day": "2026-11-27"
+   "day": "2026-11-27",
+   "stop_fail": 2
   },
   "ZEC-USDT": {
    "side": "SHORT",
    "qty": 4.09,
    "entry": 684.41,
    "key": "cb1M295737706ZEC",
-   "day": "2026-11-27"
+   "day": "2026-11-27",
+   "stop_fail": 2
   },
   "TAO-USDT": {
    "side": "SHORT",
    "qty": 29.10458,
    "entry": 184.05,
    "key": "cb1M295737706TAO",
-   "day": "2026-11-27"
+   "day": "2026-11-27",
+   "stop_fail": 2
   },
   "UNI-USDT": {
    "side": "SHORT",
    "qty": 905.0,
    "entry": 4.66,
    "key": "cb1M295737706UNI",
-   "day": "2026-11-27"
+   "day": "2026-11-27",
+   "stop_fail": 2
   }
  },
- "m2_rec_ms": 1795766783075,
+ "m2_rec_ms": 1795770197634,
  "m2_rank": {
   "day": "2026-11-27",
   "order": [

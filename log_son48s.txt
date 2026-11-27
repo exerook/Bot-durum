@@ -221,3 +221,16 @@ Nov 27 07:50:48 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 07:50:48 M2 BCH-USDT
 Nov 27 07:50:48 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 07:50:48 M2 ZEC-USDT: stop konamadi (BingX 109501: network issue, please retry later), deneme 1/3
 Nov 27 07:50:49 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 07:50:49 M2 TAO-USDT: eksik stop yeniden konuldu
 Nov 27 08:00:53 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:00:53 B taramasi bitti: 0 sinyal
+Nov 27 08:53:15 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:53:15 M2 TRB-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 08:53:21 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:53:21 M2 LTC-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 08:53:28 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:53:28 M2 BCH-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 08:53:34 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:53:34 M2 ZEC-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 08:53:40 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:53:40 M2 TAO-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 08:53:47 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:53:47 M2 UNI-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 08:58:23 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:23 M2 TRB-USDT: stop konamadi (BingX 100503: The current system is busy, please try again later), deneme 2/3
+Nov 27 08:58:29 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:29 M2 LTC-USDT: stop konamadi (BingX 109500: network timeout), deneme 2/3
+Nov 27 08:58:32 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:32 M2 BCH-USDT: stop konamadi (BingX 100503: The current system is busy, please try again later), deneme 2/3
+Nov 27 08:58:39 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:39 M2 ZEC-USDT: stop konamadi (BingX 109500: network timeout), deneme 2/3
+Nov 27 08:58:45 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:45 M2 TAO-USDT: stop konamadi (BingX 109500: network timeout), deneme 2/3
+Nov 27 08:58:49 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:49 M2 UNI-USDT: stop konamadi (BingX 100503: The current system is busy, please try again later), deneme 2/3
+Nov 27 09:03:31 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 09:03:31 M2 hata: BingXError: BingX 100503: The current system is busy, please try again later
