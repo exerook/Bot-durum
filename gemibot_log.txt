@@ -16,3 +16,14 @@ Nov 27 22:03:56 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini B
 Nov 27 22:03:58 ubuntu-1gb-fsn1-1 python[1578]: 2026-11-27 22:03:58,135 [INFO] Gemibot baslatildi | DEMO=https://open-api-vst.bingx.com | HedgeMod=True | MaxKaldirac=5x | Model=gemini-flash-latest | DryRun=False
 Nov 27 22:04:03 ubuntu-1gb-fsn1-1 python[1578]: 2026-11-27 22:04:03,572 [WARNING] Veri alinamadi (BNB-USDT): BingX API hata (/openApi/swap/v3/quote/klines): code=100410 msg=请稍后重试
 Nov 27 22:04:15 ubuntu-1gb-fsn1-1 python[1578]: 2026-11-27 22:04:15,251 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None yon=None lev=None SL=None TP=None | Sonuc: BEKLE | Gerekce: Piyasa genelinde hacim oranlari son derece zayif (BTC tf_1h hacim orani 0.01). BTC ve ETH 1h/15m zaman dilimlerinde asiri satim bolgelerine (RSI ~32-36) yaklasmis durumda; dipte short acmak risk/odul acisindan elverissiz, long icin ise henuz dip olusumu ve donus teyidi bulunmuyor.
+Nov 27 22:12:05 ubuntu-1gb-fsn1-1 systemd[1]: Stopping gemibot.service - Gemini BingX DEMO Vadeli Islem Botu...
+Nov 27 22:12:05 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Deactivated successfully.
+Nov 27 22:12:05 ubuntu-1gb-fsn1-1 systemd[1]: Stopped gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 27 22:12:05 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 27 22:12:07 ubuntu-1gb-fsn1-1 python[1754]: 2026-11-27 22:12:07,378 [INFO] Gemibot baslatildi | DEMO=https://open-api-vst.bingx.com | HedgeMod=True | MaxKaldirac=5x | Model=gemini-flash-latest | DryRun=False
+Nov 27 22:15:11 ubuntu-1gb-fsn1-1 systemd[1]: Stopping gemibot.service - Gemini BingX DEMO Vadeli Islem Botu...
+Nov 27 22:15:12 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Deactivated successfully.
+Nov 27 22:15:12 ubuntu-1gb-fsn1-1 systemd[1]: Stopped gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 27 22:15:12 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 27 22:15:13 ubuntu-1gb-fsn1-1 python[1868]: 2026-11-27 22:15:13,060 [INFO] Gemibot baslatildi | DEMO=https://open-api-vst.bingx.com | HedgeMod=True | MaxKaldirac=5x | Model=gemini-flash-latest | DryRun=False
+Nov 27 22:16:23 ubuntu-1gb-fsn1-1 python[1868]: 2026-11-27 22:16:23,091 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None yon=None lev=None SL=None TP=None | Sonuc: BEKLE | Gerekce: Piyasa genelinde 4h ve 1h zaman dilimlerinde dusus trendi ve dusuk hacim gorulmektedir. Ayrica bazi olumsuz haber basliklari (ayi piyasasi ve gizlilik sorunlari) nedeniyle net bir yuksek olasilikli trend veya momentum olusmadigindan beklemeyi tercih ediyoruz.
