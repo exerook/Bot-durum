@@ -1,60 +1,3 @@
-Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
-Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
-Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
-Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 4.585s CPU time over 4h 47min 37.399s wall clock time, 67.6M memory peak.
-Nov 25 09:37:21 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
-Nov 25 09:37:23 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:23 R3 agirlik: BTC/EMA200 = 0.799 -> v1.0 %40 / M2 %60
-Nov 25 09:37:23 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:23 R3 agirlik degisti: v1.0 %70 -> %40
-Nov 25 09:37:23 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:23 Bot basladi | DEMO (VST) | bakiye 41164.29 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
-Nov 25 09:37:39 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:39 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, NEAR-USDT, XRP-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, BNB-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, LTC-USDT, ARB-USDT, ORDI-USDT, JTO-USDT, TAO-USDT, ONDO-USDT, TRB-USDT, ENA-USDT, COMP-USDT, DYM-USDT, ZRO-USDT
-Nov 25 09:37:46 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:46 M2 sira: ilk3 ['TRB-USDT', 'LTC-USDT', 'LINK-USDT'] | son3 ['AAVE-USDT', 'DYM-USDT', 'ZRO-USDT'] | v1.0 payi %40
-Nov 25 09:37:52 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:52 M2 ACILDI TRB-USDT LONG | 315.71 adet ~3,936 USDT | stop %12
-Nov 25 09:37:57 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:37:57 M2 ACILDI LTC-USDT LONG | 105.7 adet ~4,275 USDT | stop %12
-Nov 25 09:38:02 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:02 M2 ACILDI LINK-USDT LONG | 457.4 adet ~3,958 USDT | stop %12
-Nov 25 09:38:07 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:07 M2 ACILDI ZRO-USDT SHORT | 2688.83 adet ~2,676 USDT | stop %12
-Nov 25 09:38:12 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:12 M2 ACILDI DYM-USDT SHORT | 454768 adet ~4,939 USDT | stop %12
-Nov 25 09:38:17 ubuntu-1gb-fsn1-1 python[36816]: 2026-11-25 09:38:17 M2 ACILDI AAVE-USDT SHORT | 49.2 adet ~4,512 USDT | stop %12
-Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
-Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
-Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
-Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 920ms CPU time over 6min 32.883s wall clock time, 69.9M memory peak.
-Nov 25 09:43:54 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
-Nov 25 09:43:55 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:43:55 Bot basladi | DEMO (VST) | bakiye 41131.94 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
-Nov 25 09:44:00 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:00 M2 TRB-USDT: eksik stop yeniden konuldu
-Nov 25 09:44:02 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:02 M2 LTC-USDT: eksik stop yeniden konuldu
-Nov 25 09:44:04 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:04 M2 LINK-USDT: eksik stop yeniden konuldu
-Nov 25 09:44:06 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:06 M2 ZRO-USDT: eksik stop yeniden konuldu
-Nov 25 09:44:08 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:08 M2 DYM-USDT: eksik stop yeniden konuldu
-Nov 25 09:44:10 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:44:10 M2 AAVE-USDT: eksik stop yeniden konuldu
-Nov 25 09:49:01 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:01 M2 TRB-USDT: eksik stop yeniden konuldu
-Nov 25 09:49:03 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:03 M2 LTC-USDT: eksik stop yeniden konuldu
-Nov 25 09:49:06 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:06 M2 LINK-USDT: eksik stop yeniden konuldu
-Nov 25 09:49:08 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:08 M2 ZRO-USDT: eksik stop yeniden konuldu
-Nov 25 09:49:11 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:11 M2 DYM-USDT: eksik stop yeniden konuldu
-Nov 25 09:49:14 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:49:14 M2 AAVE-USDT: eksik stop yeniden konuldu
-Nov 25 09:54:05 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:05 M2 TRB-USDT: eksik stop yeniden konuldu
-Nov 25 09:54:08 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:08 M2 LTC-USDT: eksik stop yeniden konuldu
-Nov 25 09:54:11 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:11 M2 LINK-USDT: eksik stop yeniden konuldu
-Nov 25 09:54:13 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:13 M2 ZRO-USDT: eksik stop yeniden konuldu
-Nov 25 09:54:16 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:16 M2 DYM-USDT: eksik stop yeniden konuldu
-Nov 25 09:54:18 ubuntu-1gb-fsn1-1 python[37011]: 2026-11-25 09:54:18 M2 AAVE-USDT: eksik stop yeniden konuldu
-Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
-Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
-Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
-Nov 25 09:55:37 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
-Nov 25 09:55:39 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:55:39 Bot basladi | DEMO (VST) | bakiye 41127.45 USDT | risk/islem: B %1.0 | piramit acik (B, en fazla 4 birim) | R3 acik: v1.0 payi %40 (B riski %0.40), M2 payi %60 | strateji basi max 5 acik
-Nov 25 09:59:24 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:24 M2 TRB-USDT: eksik stop yeniden konuldu
-Nov 25 09:59:27 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:27 M2 LTC-USDT: eksik stop yeniden konuldu
-Nov 25 09:59:30 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:30 M2 LINK-USDT: eksik stop yeniden konuldu
-Nov 25 09:59:33 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:33 M2 ZRO-USDT: eksik stop yeniden konuldu
-Nov 25 09:59:34 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:34 M2 DYM-USDT: eksik stop yeniden konuldu
-Nov 25 09:59:38 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 09:59:38 M2 AAVE-USDT: eksik stop yeniden konuldu
-Nov 25 10:04:36 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:36 M2 TRB-USDT: eksik stop yeniden konuldu
-Nov 25 10:04:38 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:38 M2 LTC-USDT: eksik stop yeniden konuldu
-Nov 25 10:04:41 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:41 M2 LINK-USDT: eksik stop yeniden konuldu
-Nov 25 10:04:44 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:44 M2 ZRO-USDT: eksik stop yeniden konuldu
-Nov 25 10:04:47 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:47 M2 DYM-USDT: eksik stop yeniden konuldu
-Nov 25 10:04:49 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:04:49 M2 AAVE-USDT: eksik stop yeniden konuldu
 Nov 25 10:09:48 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:09:48 M2 TRB-USDT: eksik stop yeniden konuldu
 Nov 25 10:09:51 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:09:51 M2 LTC-USDT: eksik stop yeniden konuldu
 Nov 25 10:09:54 ubuntu-1gb-fsn1-1 python[37384]: 2026-11-25 10:09:54 M2 LINK-USDT: eksik stop yeniden konuldu
@@ -234,3 +177,6 @@ Nov 27 08:58:39 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:39 M2 ZEC-USDT
 Nov 27 08:58:45 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:45 M2 TAO-USDT: stop konamadi (BingX 109500: network timeout), deneme 2/3
 Nov 27 08:58:49 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 08:58:49 M2 UNI-USDT: stop konamadi (BingX 100503: The current system is busy, please try again later), deneme 2/3
 Nov 27 09:03:31 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 09:03:31 M2 hata: BingXError: BingX 100503: The current system is busy, please try again later
+Nov 27 09:08:45 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 09:08:45 M2 TRB-USDT: stop 3 kez konamadi (BingX 109500: network timeout), pozisyon kapatildi
+Nov 27 09:09:01 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 09:09:01 M2 LTC-USDT: stop 3 kez konamadi (BingX 109500: network timeout), pozisyon kapatildi
+Nov 27 09:09:12 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 09:09:12 M2 hata: BingXError: BingX 100503: The current system is busy, please try again later
