@@ -1,5 +1,3 @@
-Nov 25 00:00:39 ubuntu-1gb-fsn1-1 python[3208]: 2026-11-25 00:00:39 Evren (30 gun ort. hacim, 38 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, NEAR-USDT, XRP-USDT, NCSINASDAQ1002USD-USDT, HYPE-USDT, AVAX-USDT, UNI-USDT, BNB-USDT, NCSKNVDA2USD-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, NCSKSOXL2USD-USDT, ORDI-USDT, JTO-USDT, ONDO-USDT, TRB-USDT, COMP-USDT, DYM-USDT, ZRO-USDT, CFX-USDT, TRX-USDT, CRV-USDT, PENDLE-USDT, FLOKI-USDT
-Nov 25 00:01:11 ubuntu-1gb-fsn1-1 python[3208]: 2026-11-25 00:01:11 B taramasi bitti: 0 sinyal
 Nov 25 04:00:50 ubuntu-1gb-fsn1-1 python[3208]: 2026-11-25 04:00:50 B taramasi bitti: 0 sinyal
 Nov 25 04:47:28 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
 Nov 25 04:47:28 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
@@ -211,3 +209,13 @@ Nov 26 08:01:25 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 08:01:25 B taramasi 
 Nov 26 12:01:00 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 12:01:00 B taramasi bitti: 0 sinyal
 Nov 26 16:00:58 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 16:00:58 B taramasi bitti: 0 sinyal
 Nov 26 20:00:48 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-26 20:00:48 B taramasi bitti: 0 sinyal
+Nov 27 00:00:54 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:00:54 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 00:01:26 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:01:26 B taramasi bitti: 0 sinyal
+Nov 27 00:01:54 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:01:54 M2 sira: ilk3 ['TRB-USDT', 'LTC-USDT', 'BCH-USDT'] | son3 ['UNI-USDT', 'TAO-USDT', 'ZEC-USDT'] | v1.0 payi %40
+Nov 27 00:01:57 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:01:57 M2 ACILDI TRB-USDT LONG | 303.53 adet ~4,124 USDT | stop %12
+Nov 27 00:01:59 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:01:59 M2 ACILDI LTC-USDT LONG | 99.3 adet ~4,360 USDT | stop %12
+Nov 27 00:02:00 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:00 M2 ACILDI BCH-USDT LONG | 18.54 adet ~3,904 USDT | stop %12
+Nov 27 00:02:02 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:02 M2 ACILDI ZEC-USDT SHORT | 4.09 adet ~2,799 USDT | stop %12
+Nov 27 00:02:03 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:03 M2 ACILDI TAO-USDT SHORT | 29.1046 adet ~5,357 USDT | stop %12
+Nov 27 00:02:05 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:05 M2 ACILDI UNI-USDT SHORT | 905 adet ~4,217 USDT | stop %12
+Nov 27 00:02:05 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:05 M2 denge tamam: long ~12,388 / short ~12,373 USDT
