@@ -352,3 +352,40 @@ Nov 27 20:03:11 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:11 kovala AAV
 Nov 27 20:03:17 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:17 kovala AAVE-USDT: tur 20 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
 Nov 27 20:03:23 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:23 ACILDI [T] AAVE-USDT SHORT | giris 95 stop 99.705 hedef yok, stop iz surer | 11.1 adet, 1x, risk 52.23 USDT (%0.24)
 Nov 27 20:03:23 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:23 Yeni islem yok: gunluk islem limiti (10)
+Nov 27 20:14:07 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 20:14:07 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:14:07 Bot durduruldu (guvenli kapanis)
+Nov 27 20:14:07 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 20:14:07 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 20:14:07 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 5.758s CPU time over 54min 58.720s wall clock time, 62M memory peak.
+Nov 27 20:14:07 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 20:14:09 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:14:09 Bot basladi | DEMO (VST) | bakiye 22169.67 USDT | risk/islem: T %1.0 | strateji basi max 5 acik
+Nov 27 20:16:38 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:16:38 KAPANDI [T] ETH-USDT SHORT | yaklasik +0.05R (+48.80 USDT) | bugun %+2.48
+Nov 27 20:16:39 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:16:39 KAPANDI [T] AAVE-USDT SHORT | yaklasik +0.01R (+0.78 USDT) | bugun %+2.49
+Nov 27 20:16:55 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:16:55 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 20:17:15 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:17:15 T taramasi bitti: 24 sinyal
+Nov 27 20:17:17 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:17:17 ACILDI [T] TRB-USDT SHORT | giris 13.246 stop 13.9083 hedef yok, stop iz surer | 821.07 adet, 1x, risk 543.75 USDT (%2.45)
+Nov 27 20:17:19 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:17:19 ACILDI [T] LTC-USDT SHORT | giris 43.94 stop 46.14 hedef yok, stop iz surer | 247.2 adet, 1x, risk 543.84 USDT (%2.45)
+Nov 27 20:25:01 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 20:25:01 ubuntu-1gb-fsn1-1 python[116213]: 2026-11-27 20:25:01 Bot durduruldu (guvenli kapanis)
+Nov 27 20:25:02 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 20:25:02 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 20:25:02 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 1.887s CPU time over 10min 54.240s wall clock time, 61.3M memory peak.
+Nov 27 20:25:02 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 20:25:03 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:25:03 Bot basladi | DEMO (VST) | bakiye 22160.88 USDT | risk/islem: T %1.0 | strateji basi max 5 acik
+Nov 27 20:46:53 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:46:53 KAPANDI [T] TRB-USDT SHORT | yaklasik -0.11R (-59.12 USDT) | bugun %+2.22
+Nov 27 20:46:53 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:46:53 KAPANDI [T] LTC-USDT SHORT | yaklasik -0.10R (-56.86 USDT) | bugun %+1.96
+Nov 27 20:47:14 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:47:14 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 20:47:32 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:47:32 T taramasi bitti: 22 sinyal
+Nov 27 20:47:35 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:47:35 ACILDI [T] LINK-USDT SHORT | giris 9.374 stop 9.51457 hedef 9.09287 | 11505.4 adet, 10x, risk 1617.26 USDT (%7.34)
+Nov 27 20:47:36 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:47:36 ZEC-USDT acilis hatasi: BingX 101209: The maximum position value for this leverage is 100000 USDT.
+Nov 27 20:47:38 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:47:38 ACILDI [T] BCH-USDT SHORT | giris 206.42 stop 209.524 hedef 200.212 | 517.93 adet, 10x, risk 1607.55 USDT (%7.36)
+Nov 27 20:48:01 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:48:01 GUNLUK SINIR: kasa bugun %-2.62 -> bot pozisyonlari kapatildi, bugun (TSI) yeni islem yok
+Nov 27 20:48:02 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:48:02 KAPANDI [T] LINK-USDT SHORT | yaklasik -0.09R (-149.57 USDT) | bugun %+1.29
+Nov 27 20:48:02 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 20:48:02 KAPANDI [T] BCH-USDT SHORT | yaklasik -0.08R (-134.66 USDT) | bugun %+0.67
+Nov 27 21:00:43 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:00:43 T taramasi bitti: 20 sinyal
+Nov 27 21:00:44 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:00:44 ZEC-USDT acilis hatasi: BingX 101209: The maximum position value for this leverage is 100000 USDT.
+Nov 27 21:00:46 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:00:46 ACILDI [T] ORDI-USDT SHORT | giris 2.641 stop 2.68086 hedef 2.56129 | 39336 adet, 10x, risk 1567.74 USDT (%7.37)
+Nov 27 21:00:48 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:00:48 ACILDI [T] XRP-USDT SHORT | giris 0.9487 stop 0.962958 hedef 0.920185 | 108720 adet, 10x, risk 1550.08 USDT (%7.35)
+Nov 27 21:01:11 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:01:11 GUNLUK SINIR: kasa bugun %-2.46 -> bot pozisyonlari kapatildi, bugun (TSI) yeni islem yok
+Nov 27 21:01:12 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:01:12 KAPANDI [T] ORDI-USDT SHORT | yaklasik -0.25R (-393.36 USDT) | bugun %-1.18
+Nov 27 21:01:12 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:01:12 KAPANDI [T] XRP-USDT SHORT | yaklasik -0.11R (-173.95 USDT) | bugun %-2.00
