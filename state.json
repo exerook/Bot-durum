@@ -1,13 +1,77 @@
 {
- "trades": {},
+ "trades": {
+  "cb1T95809325ETH": {
+   "symbol": "ETH-USDT",
+   "side": "SHORT",
+   "strat": "T",
+   "entry": 1670.26,
+   "stop": 1753.8265,
+   "stop0": 1753.8265,
+   "target": null,
+   "dist": 83.5665,
+   "qty": 12.61,
+   "risk_usdt": 1053.773565,
+   "risk_pct": 4.750247917952604,
+   "opened_ms": 1795809325120,
+   "be": false,
+   "best": 1669.64,
+   "trail_bar": 124709,
+   "stop_id": "2126405255184343040",
+   "tp_id": "",
+   "reasons": [
+    "T: en g\u00fc\u00e7l\u00fc trend (ADX 13.9)",
+    "1d trend asagi",
+    "yedek aday (oynak short)"
+   ],
+   "unit_qty": 12.61,
+   "units": [
+    [
+     1670.26,
+     12.61
+    ]
+   ]
+  },
+  "cb1T95809514AAVE": {
+   "symbol": "AAVE-USDT",
+   "side": "SHORT",
+   "strat": "T",
+   "entry": 95.0,
+   "stop": 99.705,
+   "stop0": 99.705,
+   "target": null,
+   "dist": 4.705,
+   "qty": 11.1,
+   "risk_usdt": 52.2255,
+   "risk_pct": 0.23550563287779938,
+   "opened_ms": 1795809514289,
+   "be": false,
+   "best": 95.0,
+   "trail_bar": 124709,
+   "stop_id": "2126406552486764544",
+   "tp_id": "",
+   "reasons": [
+    "T: en g\u00fc\u00e7l\u00fc trend (ADX 13.1)",
+    "1d trend asagi",
+    "yedek aday (oynak short)"
+   ],
+   "unit_qty": 11.1,
+   "units": [
+    [
+     95.0,
+     11.1
+    ]
+   ]
+  }
+ },
  "last_bar": {
   "A": 498765,
-  "B": 124708
+  "B": 124708,
+  "T": 124708
  },
  "day": "2026-11-27",
- "trades_today": 6,
- "pct_today": 2.257,
- "last_scan": "2026-11-27T17:54:13+00:00",
+ "trades_today": 10,
+ "pct_today": 2.262,
+ "last_scan": "2026-11-27T19:58:34+00:00",
  "r3": {
   "w": 0.4,
   "w_day": "2026-11-25"
@@ -147,7 +211,9 @@
  "pause_until": 0,
  "t_son": {
   "BNB-USDT": 1795802053726,
-  "BTC-USDT": 1795805956944
+  "BTC-USDT": 1795805956944,
+  "ZRO-USDT": 1795809325120,
+  "COMP-USDT": 1795809514289
  },
  "gunluk": {
   "gun": "2026-11-27",

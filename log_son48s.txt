@@ -1,4 +1,3 @@
-Nov 25 20:00:55 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-25 20:00:55 B taramasi bitti: 0 sinyal
 Nov 26 00:00:57 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 00:00:57 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, BNB-USDT, SUI-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, LTC-USDT, ONDO-USDT, TRB-USDT, JTO-USDT, ARB-USDT, TAO-USDT, ENA-USDT, COMP-USDT, DYM-USDT, ZRO-USDT
 Nov 26 00:01:25 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 00:01:25 B taramasi bitti: 0 sinyal
 Nov 26 00:01:56 ubuntu-1gb-fsn1-1 python[41197]: 2026-11-26 00:01:56 M2 sira: ilk3 ['LTC-USDT', 'COMP-USDT', 'TRB-USDT'] | son3 ['INJ-USDT', 'TAO-USDT', 'ZRO-USDT'] | v1.0 payi %40
@@ -248,3 +247,108 @@ Nov 27 19:05:03 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:05:03 kovala COM
 Nov 27 19:05:35 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:05:35 kovala COMP-USDT: tur 5 dolmadı, fiyat takip ediliyor
 Nov 27 19:06:08 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:06:08 kovala COMP-USDT: tur 6 dolmadı, fiyat takip ediliyor
 Nov 27 19:06:40 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:06:40 kovala COMP-USDT: tur 7 dolmadı, fiyat takip ediliyor
+Nov 27 19:07:12 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:07:12 kovala COMP-USDT: tur 8 dolmadı, fiyat takip ediliyor
+Nov 27 19:07:45 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:07:45 kovala COMP-USDT: tur 9 dolmadı, fiyat takip ediliyor
+Nov 27 19:08:17 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:08:17 kovala COMP-USDT: tur 10 dolmadı, fiyat takip ediliyor
+Nov 27 19:08:49 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:08:49 kovala COMP-USDT: tur 11 dolmadı, fiyat takip ediliyor
+Nov 27 19:09:22 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:09:22 kovala COMP-USDT: tur 12 dolmadı, fiyat takip ediliyor
+Nov 27 19:09:54 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:09:54 kovala COMP-USDT: tur 13 dolmadı, fiyat takip ediliyor
+Nov 27 19:10:26 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:10:26 kovala COMP-USDT: tur 14 dolmadı, fiyat takip ediliyor
+Nov 27 19:10:58 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:10:58 kovala COMP-USDT: tur 15 dolmadı, fiyat takip ediliyor
+Nov 27 19:11:31 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:11:31 kovala COMP-USDT: tur 16 dolmadı, fiyat takip ediliyor
+Nov 27 19:12:03 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:12:03 kovala COMP-USDT: tur 17 dolmadı, fiyat takip ediliyor
+Nov 27 19:12:35 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:12:35 kovala COMP-USDT: tur 18 dolmadı, fiyat takip ediliyor
+Nov 27 19:13:07 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:13:07 kovala COMP-USDT: tur 19 dolmadı, fiyat takip ediliyor
+Nov 27 19:13:40 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:13:40 kovala COMP-USDT: tur 20 dolmadı, fiyat takip ediliyor
+Nov 27 19:13:40 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:13:40 kovala COMP-USDT: doldu 28.29 | ort 17.98 | kayma +19.4 bp | maker payı %0
+Nov 27 19:13:41 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:13:41 ACILDI [T] COMP-USDT SHORT | giris 17.98 stop 18.7674 hedef yok, stop iz surer | 28.29 adet, 1x, risk 22.27 USDT (%0.10)
+Nov 27 19:13:41 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:13:41 T: bos yer var, 5 dk sonra yeniden taranacak
+Nov 27 19:14:21 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:14:21 T taramasi bitti: 0 sinyal
+Nov 27 19:14:21 ubuntu-1gb-fsn1-1 python[112145]: 2026-11-27 19:14:21 T: bos yer var, 5 dk sonra yeniden taranacak
+Nov 27 19:19:09 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 19:19:09 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 19:19:09 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 19:19:09 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 3.217s CPU time over 17min 1.800s wall clock time, 61.5M memory peak.
+Nov 27 19:19:09 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 19:19:10 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:19:10 Bot basladi | DEMO (VST) | bakiye 22196.12 USDT | risk/islem: T %1.0 | strateji basi max 5 acik
+Nov 27 19:19:30 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:19:30 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 19:19:49 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:19:49 T taramasi bitti: 27 sinyal
+Nov 27 19:20:22 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:20:22 kovala ZRO-USDT: tur 1 dolmadı, fiyat takip ediliyor
+Nov 27 19:20:54 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:20:54 kovala ZRO-USDT: tur 2 dolmadı, fiyat takip ediliyor
+Nov 27 19:21:27 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:21:27 kovala ZRO-USDT: tur 3 dolmadı, fiyat takip ediliyor
+Nov 27 19:21:27 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:21:27 kovala ZRO-USDT: tur 4 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:21:33 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:21:33 kovala ZRO-USDT: tur 5 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:21:38 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:21:38 kovala ZRO-USDT: tur 6 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:21:44 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:21:44 kovala ZRO-USDT: tur 7 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:21:49 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:21:49 kovala ZRO-USDT: tur 8 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:21:55 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:21:55 kovala ZRO-USDT: tur 9 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:22:00 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:22:00 kovala ZRO-USDT: tur 10 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:22:06 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:22:06 kovala ZRO-USDT: tur 11 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:22:11 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:22:11 kovala ZRO-USDT: tur 12 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:22:49 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:22:49 kovala ZRO-USDT: tur 13 dolmadı, fiyat takip ediliyor
+Nov 27 19:23:21 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:23:21 kovala ZRO-USDT: tur 14 dolmadı, fiyat takip ediliyor
+Nov 27 19:23:53 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:23:53 kovala ZRO-USDT: tur 15 dolmadı, fiyat takip ediliyor
+Nov 27 19:24:25 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:24:25 kovala ZRO-USDT: tur 16 dolmadı, fiyat takip ediliyor
+Nov 27 19:24:58 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:24:58 kovala ZRO-USDT: tur 17 dolmadı, fiyat takip ediliyor
+Nov 27 19:25:30 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:25:30 kovala ZRO-USDT: tur 18 dolmadı, fiyat takip ediliyor
+Nov 27 19:26:02 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:26:02 kovala ZRO-USDT: tur 19 dolmadı, fiyat takip ediliyor
+Nov 27 19:26:35 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:26:35 kovala ZRO-USDT: tur 20 dolmadı, fiyat takip ediliyor
+Nov 27 19:26:35 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:26:35 kovala ZRO-USDT: doldu 511.281 | ort 1.04753 | kayma +7.4 bp | maker payı %9
+Nov 27 19:26:36 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:26:36 ACILDI [T] ZRO-USDT SHORT | giris 1.0475 stop 1.10046 hedef yok, stop iz surer | 511.281 adet, 1x, risk 27.07 USDT (%0.12)
+Nov 27 19:55:26 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:55:26 KAPANDI [T] ZRO-USDT SHORT | yaklasik +0.09R (+2.35 USDT) | bugun %+2.27
+Nov 27 19:55:44 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:55:44 T taramasi bitti: 26 sinyal
+Nov 27 19:55:46 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:55:46 [T] BCH-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 19:55:48 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:55:48 [T] ZEC-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 19:55:49 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:55:49 [T] AVAX-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 19:55:51 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:55:51 kovala ETH-USDT: tur 1 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:55:56 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:55:56 kovala ETH-USDT: tur 2 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:02 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:02 kovala ETH-USDT: tur 3 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:07 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:07 kovala ETH-USDT: tur 4 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:13 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:13 kovala ETH-USDT: tur 5 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:19 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:19 kovala ETH-USDT: tur 6 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:24 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:24 kovala ETH-USDT: tur 7 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:30 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:30 kovala ETH-USDT: tur 8 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:35 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:35 kovala ETH-USDT: tur 9 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:41 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:41 kovala ETH-USDT: tur 10 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:46 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:46 kovala ETH-USDT: tur 11 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:52 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:52 kovala ETH-USDT: tur 12 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:56:57 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:56:57 kovala ETH-USDT: tur 13 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:57:03 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:57:03 kovala ETH-USDT: tur 14 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:57:08 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:57:08 kovala ETH-USDT: tur 15 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:57:14 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:57:14 kovala ETH-USDT: tur 16 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:57:19 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:57:19 kovala ETH-USDT: tur 17 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:57:25 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:57:25 kovala ETH-USDT: tur 18 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 19:58:02 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:58:02 kovala ETH-USDT: tur 19 dolmadı, fiyat takip ediliyor
+Nov 27 19:58:13 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:58:13 kovala ETH-USDT: doldu 12.61 | ort 1670.26 | kayma -0.9 bp | maker payı %100
+Nov 27 19:58:14 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:58:14 ACILDI [T] ETH-USDT SHORT | giris 1670.26 stop 1753.83 hedef yok, stop iz surer | 12.61 adet, 1x, risk 1053.77 USDT (%4.75)
+Nov 27 19:58:35 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:58:35 KAPANDI [T] COMP-USDT SHORT | yaklasik -0.06R (-1.41 USDT) | bugun %+2.26
+Nov 27 19:58:52 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:58:52 T taramasi bitti: 25 sinyal
+Nov 27 19:58:53 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:58:53 [T] BCH-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 19:58:55 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:58:55 [T] ZEC-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 19:59:28 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 19:59:28 kovala AVAX-USDT: tur 1 dolmadı, fiyat takip ediliyor
+Nov 27 20:00:00 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:00:00 kovala AVAX-USDT: tur 2 dolmadı, fiyat takip ediliyor
+Nov 27 20:00:02 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:00:02 [T] AVAX-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 20:00:05 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:00:05 [T] 1000PEPE-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 20:00:07 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:00:07 [T] NEAR-USDT SHORT giris iptal: fiyat 4s EMA20'nin öbür tarafına geçti (trend uyumu bozuldu) -> siradaki aday
+Nov 27 20:00:42 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:00:42 kovala AAVE-USDT: tur 1 dolmadı, fiyat takip ediliyor
+Nov 27 20:01:15 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:01:15 kovala AAVE-USDT: tur 2 dolmadı, fiyat takip ediliyor
+Nov 27 20:01:15 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:01:15 kovala AAVE-USDT: tur 3 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 20:01:53 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:01:53 kovala AAVE-USDT: tur 4 dolmadı, fiyat takip ediliyor
+Nov 27 20:01:53 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:01:53 kovala AAVE-USDT: tur 5 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:01:59 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:01:59 kovala AAVE-USDT: tur 6 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:05 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:05 kovala AAVE-USDT: tur 7 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:10 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:10 kovala AAVE-USDT: tur 8 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:16 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:16 kovala AAVE-USDT: tur 9 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:21 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:21 kovala AAVE-USDT: tur 10 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:27 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:27 kovala AAVE-USDT: tur 11 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:32 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:32 kovala AAVE-USDT: tur 12 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:38 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:38 kovala AAVE-USDT: tur 13 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:43 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:43 kovala AAVE-USDT: tur 14 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:49 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:49 kovala AAVE-USDT: tur 15 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:02:54 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:02:54 kovala AAVE-USDT: tur 16 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:03:00 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:00 kovala AAVE-USDT: tur 17 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:03:05 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:05 kovala AAVE-USDT: tur 18 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:03:11 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:11 kovala AAVE-USDT: tur 19 emir reddedildi (BingX 101204: Insufficient margin)
+Nov 27 20:03:17 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:17 kovala AAVE-USDT: tur 20 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 20:03:23 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:23 ACILDI [T] AAVE-USDT SHORT | giris 95 stop 99.705 hedef yok, stop iz surer | 11.1 adet, 1x, risk 52.23 USDT (%0.24)
+Nov 27 20:03:23 ubuntu-1gb-fsn1-1 python[113316]: 2026-11-27 20:03:23 Yeni islem yok: gunluk islem limiti (10)
