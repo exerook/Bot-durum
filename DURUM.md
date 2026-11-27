@@ -1,7 +1,7 @@
-# Bot durumu — 2026-11-27 01:07 UTC
+# Bot durumu — 2026-11-27 02:07 UTC
 
 Mod: DEMO (VST)
-Bakiye (özsermaye): 41,044.96 USDT · kullanılabilir 32,913.78 USDT
+Bakiye (özsermaye): 41,095.10 USDT · kullanılabilir 32,913.78 USDT
 R3 ağırlık: v1.0 %40 / M2 %60 (son güncelleme 2026-11-25)
 Son tarama: 2026-11-27T00:00:31+00:00 · M2 son dengeleme: 2026-11-27
 
@@ -9,14 +9,14 @@ Son tarama: 2026-11-27T00:00:31+00:00 · M2 son dengeleme: 2026-11-27
 
 | Coin | Yön | Adet | Giriş | Şimdi | Anlık K/Z (USDT) | Sahibi |
 |---|---|---|---|---|---|---|
-| TRB-USDT | LONG | 303.53 | 13.586 | 13.410 | -53.51 | M2 |
-| LTC-USDT | LONG | 99.3 | 43.91 | 44.22 | +30.77 | M2 |
-| BCH-USDT | LONG | 18.54 | 210.55 | 210.96 | +7.58 | M2 |
-| ZEC-USDT | SHORT | 4.090 | 684.41 | 703.32 | -77.36 | M2 |
-| TAO-USDT | SHORT | 29.10458 | 184.05 | 184.16 | -3.20 | M2 |
-| UNI-USDT | SHORT | 905 | 4.660 | 4.691 | -28.48 | M2 |
+| TRB-USDT | LONG | 303.53 | 13.586 | 13.551 | -10.72 | M2 |
+| LTC-USDT | LONG | 99.3 | 43.91 | 44.15 | +23.82 | M2 |
+| BCH-USDT | LONG | 18.54 | 210.55 | 213.22 | +49.50 | M2 |
+| ZEC-USDT | SHORT | 4.090 | 684.41 | 709.77 | -103.73 | M2 |
+| TAO-USDT | SHORT | 29.10458 | 184.05 | 183.82 | +6.69 | M2 |
+| UNI-USDT | SHORT | 905 | 4.660 | 4.699 | -34.98 | M2 |
 
-Toplam anlık K/Z: -124.19 USDT
+Toplam anlık K/Z: -69.41 USDT
 
 ## Açık emirler (özet)
 
