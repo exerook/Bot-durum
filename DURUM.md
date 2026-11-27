@@ -1,7 +1,7 @@
-# Bot durumu — 2026-11-27 10:07 UTC
+# Bot durumu — 2026-11-27 11:07 UTC
 
 Mod: DEMO (VST)
-Bakiye (özsermaye): 40,579.54 USDT · kullanılabilir 35,748.09 USDT
+Bakiye (özsermaye): 40,585.30 USDT · kullanılabilir 35,748.09 USDT
 R3 ağırlık: v1.0 %40 / M2 %60 (son güncelleme 2026-11-25)
 Son tarama: 2026-11-27T08:00:24+00:00 · M2 son dengeleme: 2026-11-27
 
@@ -9,12 +9,12 @@ Son tarama: 2026-11-27T08:00:24+00:00 · M2 son dengeleme: 2026-11-27
 
 | Coin | Yön | Adet | Giriş | Şimdi | Anlık K/Z (USDT) | Sahibi |
 |---|---|---|---|---|---|---|
-| UNI-USDT | SHORT | 905 | 4.660 | 4.896 | -213.90 | M2 |
-| TAO-USDT | SHORT | 29.10458 | 184.05 | 188.07 | -117.00 | M2 |
-| BCH-USDT | LONG | 18.54 | 210.55 | 211.46 | +16.87 | M2 |
-| ZEC-USDT | SHORT | 4.090 | 684.41 | 753.47 | -282.46 | M2 |
+| UNI-USDT | SHORT | 905 | 4.660 | 4.877 | -196.48 | M2 |
+| TAO-USDT | SHORT | 29.10458 | 184.05 | 188.74 | -136.50 | M2 |
+| BCH-USDT | LONG | 18.54 | 210.55 | 212.04 | +27.63 | M2 |
+| ZEC-USDT | SHORT | 4.090 | 684.41 | 754.03 | -284.75 | M2 |
 
-Toplam anlık K/Z: -596.48 USDT
+Toplam anlık K/Z: -590.09 USDT
 
 ## Açık emirler (özet)
 
