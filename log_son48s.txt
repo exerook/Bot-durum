@@ -389,3 +389,8 @@ Nov 27 21:00:48 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:00:48 ACILDI [T]
 Nov 27 21:01:11 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:01:11 GUNLUK SINIR: kasa bugun %-2.46 -> bot pozisyonlari kapatildi, bugun (TSI) yeni islem yok
 Nov 27 21:01:12 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:01:12 KAPANDI [T] ORDI-USDT SHORT | yaklasik -0.25R (-393.36 USDT) | bugun %-1.18
 Nov 27 21:01:12 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:01:12 KAPANDI [T] XRP-USDT SHORT | yaklasik -0.11R (-173.95 USDT) | bugun %-2.00
+Nov 27 21:23:49 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 21:23:49 ubuntu-1gb-fsn1-1 python[116714]: 2026-11-27 21:23:49 Bot durduruldu (guvenli kapanis)
+Nov 27 21:23:49 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 21:23:49 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 21:23:49 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 4.006s CPU time over 58min 47.585s wall clock time, 61.7M memory peak.
