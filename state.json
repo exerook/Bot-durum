@@ -1,45 +1,45 @@
 {
  "trades": {
-  "cb1T95796668BNB": {
-   "symbol": "BNB-USDT",
+  "cb1T95802053BTC": {
+   "symbol": "BTC-USDT",
    "side": "SHORT",
    "strat": "T",
-   "entry": 554.34,
-   "stop": 579.1517743649687,
-   "stop0": 579.1517743649687,
+   "entry": 59745.5,
+   "stop": 62744.944958133536,
+   "stop0": 62744.944958133536,
    "target": null,
-   "dist": 24.811774364968606,
-   "qty": 113.21,
-   "risk_usdt": 2808.940975858096,
-   "risk_pct": 12.762625100869435,
-   "opened_ms": 1795796668624,
+   "dist": 2999.444958133538,
+   "qty": 0.1439,
+   "risk_usdt": 431.6201294754161,
+   "risk_pct": 1.9376196182478216,
+   "opened_ms": 1795802053726,
    "be": false,
-   "best": 551.43,
+   "best": 59707.2,
    "trail_bar": 124708,
-   "stop_id": "2126351800252063744",
+   "stop_id": "2126374198896582656",
    "tp_id": "",
    "reasons": [
-    "T: en g\u00fc\u00e7l\u00fc trend (ADX 16.1)",
+    "T: en g\u00fc\u00e7l\u00fc trend (ADX 15.8)",
     "1d trend asagi"
    ],
-   "unit_qty": 113.21,
+   "unit_qty": 0.1439,
    "units": [
     [
-     554.34,
-     113.21
+     59745.5,
+     0.1439
     ]
    ]
   }
  },
  "last_bar": {
   "A": 498765,
-  "B": 124707,
+  "B": 124708,
   "T": 124708
  },
  "day": "2026-11-27",
- "trades_today": 5,
- "pct_today": 0.664,
- "last_scan": "2026-11-27T16:24:28+00:00",
+ "trades_today": 6,
+ "pct_today": 2.346,
+ "last_scan": "2026-11-27T17:54:13+00:00",
  "r3": {
   "w": 0.4,
   "w_day": "2026-11-25"
@@ -177,5 +177,7 @@
  },
  "streak": 0,
  "pause_until": 0,
- "t_tekrar": 1795797030013
+ "t_son": {
+  "BNB-USDT": 1795802053726
+ }
 }

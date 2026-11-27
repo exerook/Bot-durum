@@ -191,3 +191,32 @@ Nov 27 16:25:27 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:27 kovala BNB
 Nov 27 16:25:33 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:33 kovala BNB-USDT: tur 4 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
 Nov 27 16:25:49 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:49 kovala BNB-USDT: doldu 113.21 | ort 554.34 | kayma -5.2 bp | maker payı %100
 Nov 27 16:25:49 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:49 ACILDI [T] BNB-USDT SHORT | giris 554.34 stop 579.152 hedef yok, stop iz surer | 113.21 adet, 3x, risk 2808.94 USDT (%12.76)
+Nov 27 17:30:55 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 17:30:55 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 17:30:55 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 17:30:55 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 2.843s CPU time over 1h 6min 28.094s wall clock time, 61.6M memory peak.
+Nov 27 17:30:55 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 17:30:56 ubuntu-1gb-fsn1-1 python[105409]: 2026-11-27 17:30:56 Bot basladi | DEMO (VST) | bakiye 22480.49 USDT | risk/islem: T %1.0 | strateji basi max 1 acik
+Nov 27 17:45:59 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 17:45:59 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 17:45:59 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 17:45:59 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 17:46:00 ubuntu-1gb-fsn1-1 python[106254]: 2026-11-27 17:46:00 Bot basladi | DEMO (VST) | bakiye 22592.36 USDT | risk/islem: T %1.0 | strateji basi max 1 acik
+Nov 27 17:51:49 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 17:51:49 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 17:51:49 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 17:51:49 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 17:51:51 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:51:51 Bot basladi | DEMO (VST) | bakiye 22500.70 USDT | risk/islem: T %1.0, B %1.0 | strateji basi max 5 acik
+Nov 27 17:52:09 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:52:09 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 17:52:31 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:52:31 B taramasi bitti: 0 sinyal
+Nov 27 17:54:14 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:54:14 KAPANDI [T] BNB-USDT SHORT | yaklasik +0.13R (+370.20 USDT) | bugun %+2.35
+Nov 27 17:54:36 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:54:36 T taramasi bitti: 2 sinyal
+Nov 27 17:54:38 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:54:38 kovala BTC-USDT: tur 1 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 17:54:49 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:54:49 kovala BTC-USDT: doldu 0.1439 | ort 59745.5 | kayma +1.5 bp | maker payı %100
+Nov 27 17:54:49 ubuntu-1gb-fsn1-1 python[106669]: 2026-11-27 17:54:49 ACILDI [T] BTC-USDT SHORT | giris 59745.5 stop 62744.9 hedef yok, stop iz surer | 0.1439 adet, 2x, risk 431.62 USDT (%1.94)
+Nov 27 18:01:26 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 18:01:26 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 18:01:26 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 18:01:26 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 2.767s CPU time over 9min 36.691s wall clock time, 62M memory peak.
+Nov 27 18:01:26 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 18:01:27 ubuntu-1gb-fsn1-1 python[107330]: 2026-11-27 18:01:27 Bot basladi | DEMO (VST) | bakiye 22257.11 USDT | risk/islem: T %1.0, B %1.0 | strateji basi max 5 acik
