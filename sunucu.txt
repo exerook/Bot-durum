@@ -1,12 +1,12 @@
-Fri Nov 27 04:07:01 PM UTC 2026
- 16:07:01 up 2 days, 18:58,  2 users,  load average: 0.14, 0.14, 0.10
+Fri Nov 27 05:07:01 PM UTC 2026
+ 17:07:01 up 2 days, 19:58,  2 users,  load average: 0.03, 0.10, 0.08
                total        used        free      shared  buff/cache   available
-Mem:             927         310          43           4         599         617
+Mem:             927         288          60           4         604         638
 Swap:           2047           1        2046
 Filesystem      Size  Used Avail Use% Mounted on
-/dev/sda1        19G  4.3G   14G  24% /
+/dev/sda1        19G  4.3G   14G  25% /
 ActiveState=active
-ActiveEnterTimestamp=Fri 2026-11-27 15:15:33 UTC
+ActiveEnterTimestamp=Fri 2026-11-27 16:24:27 UTC
 NRestarts=0
-heartbeat: 2026-11-27T16:06:45+00:00
+heartbeat: 2026-11-27T17:06:48+00:00
 kod: b9e6950 TEK: 'kaçtı' kontrolü emrin verildiği andan ölçülür (mum kapanışından değil); iptal edilen coine 4 saat yasak yok; işlem açılamazsa 15 dk'da bir yeniden tarar; adet şu anki fiyatla; piyasa emri reddi kovalamayı düşürmez; panel gerçek sıradaki taramayı gösterir

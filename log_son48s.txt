@@ -175,3 +175,19 @@ Nov 27 15:52:56 ubuntu-1gb-fsn1-1 python[97050]: 2026-11-27 15:52:56 T taramasi 
 Nov 27 15:52:56 ubuntu-1gb-fsn1-1 python[97050]: 2026-11-27 15:52:56 T: islem acilamadi, 15 dk sonra yeniden taranacak
 Nov 27 16:00:21 ubuntu-1gb-fsn1-1 python[97050]: 2026-11-27 16:00:21 T taramasi bitti: 0 sinyal
 Nov 27 16:00:21 ubuntu-1gb-fsn1-1 python[97050]: 2026-11-27 16:00:21 T: islem acilamadi, 15 dk sonra yeniden taranacak
+Nov 27 16:15:30 ubuntu-1gb-fsn1-1 python[97050]: 2026-11-27 16:15:30 T taramasi bitti: 0 sinyal
+Nov 27 16:15:30 ubuntu-1gb-fsn1-1 python[97050]: 2026-11-27 16:15:30 T: islem acilamadi, 15 dk sonra yeniden taranacak
+Nov 27 16:24:27 ubuntu-1gb-fsn1-1 systemd[1]: Stopping bpiramit.service - B+Piramit trading bot...
+Nov 27 16:24:27 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Deactivated successfully.
+Nov 27 16:24:27 ubuntu-1gb-fsn1-1 systemd[1]: Stopped bpiramit.service - B+Piramit trading bot.
+Nov 27 16:24:27 ubuntu-1gb-fsn1-1 systemd[1]: bpiramit.service: Consumed 1.447s CPU time over 1h 8min 53.897s wall clock time, 62.8M memory peak.
+Nov 27 16:24:27 ubuntu-1gb-fsn1-1 systemd[1]: Started bpiramit.service - B+Piramit trading bot.
+Nov 27 16:24:28 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:24:28 Bot basladi | DEMO (VST) | bakiye 22009.12 USDT | risk/islem: T %1.0 | strateji basi max 1 acik
+Nov 27 16:24:46 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:24:46 Evren (30 gun ort. hacim, 80 aday): BTC-USDT, ETH-USDT, SOL-USDT, ZEC-USDT, XRP-USDT, NEAR-USDT, 1000PEPE-USDT, HYPE-USDT, AAVE-USDT, AVAX-USDT, UNI-USDT, INJ-USDT, SUI-USDT, BNB-USDT, DOGE-USDT, LINK-USDT, BCH-USDT, ADA-USDT, WLD-USDT, ORDI-USDT, ONDO-USDT, ARB-USDT, TRB-USDT, LTC-USDT, JTO-USDT, TAO-USDT, COMP-USDT, ENA-USDT, DYM-USDT, ZRO-USDT
+Nov 27 16:25:14 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:14 T taramasi bitti: 30 sinyal
+Nov 27 16:25:16 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:16 kovala BNB-USDT: tur 1 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 16:25:21 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:21 kovala BNB-USDT: tur 2 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 16:25:27 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:27 kovala BNB-USDT: tur 3 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 16:25:33 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:33 kovala BNB-USDT: tur 4 emir reddedildi (BingX 101215: The Maker (Post Only) order ensures that the user always acts as a maker. If the order would immediately match with available orders in the market, it will be canceled.)
+Nov 27 16:25:49 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:49 kovala BNB-USDT: doldu 113.21 | ort 554.34 | kayma -5.2 bp | maker payı %100
+Nov 27 16:25:49 ubuntu-1gb-fsn1-1 python[101554]: 2026-11-27 16:25:49 ACILDI [T] BNB-USDT SHORT | giris 554.34 stop 579.152 hedef yok, stop iz surer | 113.21 adet, 3x, risk 2808.94 USDT (%12.76)
