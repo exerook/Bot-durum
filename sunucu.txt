@@ -1,12 +1,12 @@
-Fri Nov 27 06:07:01 PM UTC 2026
- 18:07:01 up 2 days, 20:58,  2 users,  load average: 0.19, 0.13, 0.10
+Fri Nov 27 07:07:01 PM UTC 2026
+ 19:07:01 up 2 days, 21:58,  1 user,  load average: 0.35, 0.18, 0.12
                total        used        free      shared  buff/cache   available
-Mem:             927         307          31           4         612         619
+Mem:             927         305          27           4         620         621
 Swap:           2047           1        2046
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.3G   14G  25% /
 ActiveState=active
-ActiveEnterTimestamp=Fri 2026-11-27 18:01:26 UTC
+ActiveEnterTimestamp=Fri 2026-11-27 19:02:07 UTC
 NRestarts=0
-heartbeat: 2026-11-27T18:06:56+00:00
-kod: 47b33eb TEK: lehe 1 ATR kaçışta emir iptal edilmez, piyasa emriyle girilir (stres testi: kaçan kazananlar sistemi zarara çeviriyor); düşüş freni RED
+heartbeat: 2026-11-27T18:58:56+00:00
+kod: e402b87 TEK: aynı anda TEK_ADET işlem (kasa boş yerlere eşit bölünür), boş yer varken TEK_TARAMA_DK'da bir tarama
