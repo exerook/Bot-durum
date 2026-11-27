@@ -219,3 +219,9 @@ Nov 27 00:02:02 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:02 M2 ACILDI Z
 Nov 27 00:02:03 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:03 M2 ACILDI TAO-USDT SHORT | 29.1046 adet ~5,357 USDT | stop %12
 Nov 27 00:02:05 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:05 M2 ACILDI UNI-USDT SHORT | 905 adet ~4,217 USDT | stop %12
 Nov 27 00:02:05 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 00:02:05 M2 denge tamam: long ~12,388 / short ~12,373 USDT
+Nov 27 02:36:28 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 02:36:28 M2 TRB-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 02:36:33 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 02:36:33 M2 LTC-USDT: eksik stop yeniden konuldu
+Nov 27 02:46:47 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 02:46:47 M2 TRB-USDT: eksik stop yeniden konuldu
+Nov 27 02:46:55 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 02:46:55 M2 BCH-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 02:47:02 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 02:47:02 M2 ZEC-USDT: stop konamadi (BingX 109500: network timeout), deneme 1/3
+Nov 27 02:47:06 ubuntu-1gb-fsn1-1 python[51426]: 2026-11-27 02:47:06 M2 TAO-USDT: eksik stop yeniden konuldu
