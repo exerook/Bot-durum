@@ -1,5 +1,17 @@
 {
   "gun": "2026-11-28",
-  "gun_basi_equity": 20212.0151,
-  "bot_positions": {}
+  "gun_basi_equity": 20211.8647,
+  "bot_positions": {
+    "BLESS-USDT:LONG": {
+      "symbol": "BLESS-USDT",
+      "yon": "LONG",
+      "qty": 476003.7,
+      "kurulum": "parabolik_fitil_donusu",
+      "slot": "runner",
+      "sl": 0.014003,
+      "sl_id": "2126676169268486144",
+      "tp_id": "",
+      "r_dist": 0.00016242500000000076
+    }
+  }
 }

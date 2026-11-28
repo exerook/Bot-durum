@@ -1,13 +1,13 @@
-Sat Nov 28 01:07:03 PM UTC 2026
- 13:07:03 up 15:13,  2 users,  load average: 0.14, 0.10, 0.09
+Sat Nov 28 02:07:13 PM UTC 2026
+ 14:07:13 up 16:13,  2 users,  load average: 0.08, 0.08, 0.08
                total        used        free      shared  buff/cache   available
-Mem:             927         239          22           4         691         687
+Mem:             927         241          26           4         685         685
 Swap:           2047           0        2047
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.3G   14G  25% /
 ActiveState=inactive
 ActiveEnterTimestamp=
 NRestarts=0
-gemibot: ActiveState=active ActiveEnterTimestamp=Sat 2026-11-28 12:05:31 UTC NRestarts=0 
+gemibot: ActiveState=active ActiveEnterTimestamp=Sat 2026-11-28 14:04:59 UTC NRestarts=0 
 heartbeat: 2026-11-27T21:23:45+00:00
 kod: 3f5e8cd Gemibot 4. tur: tarayıcı (en likit 25 içinden BTC + en hareketli 5 + açık pozisyonlar), hafta sonu cümlesi düzeltildi, bilinmeyen kontratta emir yok, emir hatası loga
