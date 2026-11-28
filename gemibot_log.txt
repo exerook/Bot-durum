@@ -129,3 +129,14 @@ Nov 28 10:59:24 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Consumed 1.592s C
 Nov 28 10:59:24 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
 Nov 28 10:59:25 ubuntu-1gb-fsn1-1 python[20002]: 2026-11-28 10:59:25,330 [INFO] Hibrit Bot (Runner dahil) baslatildi | DEMO=https://open-api-vst.bingx.com | Hedge=True | MaxLev=5x | DryRun=False
 Nov 28 10:59:45 ubuntu-1gb-fsn1-1 python[20002]: 2026-11-28 10:59:45,359 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 6 coin tarandi; kurulum olusmadi.
+Nov 28 11:15:07 ubuntu-1gb-fsn1-1 python[20002]: 2026-11-28 11:15:07,776 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 6 coin tarandi; kurulum olusmadi.
+Nov 28 11:30:38 ubuntu-1gb-fsn1-1 python[20002]: 2026-11-28 11:30:38,401 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 6 coin tarandi; kurulum olusmadi.
+Nov 28 11:46:02 ubuntu-1gb-fsn1-1 python[20002]: 2026-11-28 11:46:02,632 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 6 coin tarandi; kurulum olusmadi.
+Nov 28 12:01:40 ubuntu-1gb-fsn1-1 python[20002]: 2026-11-28 12:01:40,008 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 6 coin tarandi; kurulum olusmadi.
+Nov 28 12:05:31 ubuntu-1gb-fsn1-1 systemd[1]: Stopping gemibot.service - Gemini BingX DEMO Vadeli Islem Botu...
+Nov 28 12:05:31 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Deactivated successfully.
+Nov 28 12:05:31 ubuntu-1gb-fsn1-1 systemd[1]: Stopped gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 12:05:31 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Consumed 1.690s CPU time over 1h 6min 7.853s wall clock time, 18.9M memory peak.
+Nov 28 12:05:31 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 12:05:33 ubuntu-1gb-fsn1-1 python[21353]: 2026-11-28 12:05:33,169 [INFO] Hibrit Bot (Runner dahil) baslatildi | DEMO=https://open-api-vst.bingx.com | Hedge=True | MaxLev=5x | DryRun=False
+Nov 28 12:06:05 ubuntu-1gb-fsn1-1 python[21353]: 2026-11-28 12:06:05,538 [INFO] KARAR [DEMO_CANLI]: BEKLE | Sinyal adaylari filtre veya pozisyon siniri nedeniyle acilmadi.
