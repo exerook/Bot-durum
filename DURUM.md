@@ -1,9 +1,9 @@
-# Bot durumu — 2026-11-28 08:07 UTC
+# Bot durumu — 2026-11-28 09:07 UTC
 
 Mod: DEMO (VST)
 Bakiye (özsermaye): 20,211.86 USDT · kullanılabilir 20,211.86 USDT
 Çalışan bot: GEMINI (gemibot) · kararlar 15 dk'da bir · ayrıntı: gemibot_kararlar.jsonl, gemibot_log.txt
-Son karar: 2026-11-28T07:56:45Z · BEKLE   · BEKLE
+Son karar: 2026-11-28T08:58:23.026245+00:00 · BEKLE   · Matematiksel sinyal olusmadi.
 
 ## Borsadaki açık pozisyonlar
 
