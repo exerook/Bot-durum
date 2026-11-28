@@ -1,13 +1,13 @@
-Sat Nov 28 05:07:01 AM UTC 2026
- 05:07:01 up  7:13,  1 user,  load average: 0.11, 0.10, 0.09
+Sat Nov 28 06:07:03 AM UTC 2026
+ 06:07:03 up  8:13,  2 users,  load average: 0.15, 0.11, 0.09
                total        used        free      shared  buff/cache   available
-Mem:             927         225         430           4         297         701
+Mem:             927         231         421           4         300         695
 Swap:           2047           0        2047
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/sda1        19G  4.3G   14G  25% /
 ActiveState=inactive
 ActiveEnterTimestamp=
 NRestarts=0
-gemibot: ActiveState=active ActiveEnterTimestamp=Fri 2026-11-27 22:15:12 UTC NRestarts=0 
+gemibot: ActiveState=active ActiveEnterTimestamp=Sat 2026-11-28 06:03:41 UTC NRestarts=0 
 heartbeat: 2026-11-27T21:23:45+00:00
-kod: 5dba89b Not: Gemini tespitleri uygulandı
+kod: e5cc003 Gemibot: işlem defteri (kapanan her işlemin komisyon ve fonlama dahil net sonucu borsa hesap hareketlerinden); 5 Aralık ölçütleri kayda geçti
