@@ -98,3 +98,23 @@ Nov 28 08:58:01 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Consumed 1.504s C
 Nov 28 08:58:01 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
 Nov 28 08:58:03 ubuntu-1gb-fsn1-1 python[17947]: 2026-11-28 08:58:03,283 [INFO] Hibrit Bot baslatildi | DEMO=https://open-api-vst.bingx.com | Hedge=True | MaxLev=5x | DryRun=False
 Nov 28 08:58:23 ubuntu-1gb-fsn1-1 python[17947]: 2026-11-28 08:58:23,026 [INFO] BEKLE | 15 coin tarandi, sinyal yok.
+Nov 28 09:07:13 ubuntu-1gb-fsn1-1 systemd[1]: Stopping gemibot.service - Gemini BingX DEMO Vadeli Islem Botu...
+Nov 28 09:07:13 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Deactivated successfully.
+Nov 28 09:07:13 ubuntu-1gb-fsn1-1 systemd[1]: Stopped gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 09:07:13 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 09:07:15 ubuntu-1gb-fsn1-1 python[18504]: 2026-11-28 09:07:15,173 [INFO] Hibrit Bot baslatildi | DEMO=https://open-api-vst.bingx.com | Hedge=True | MaxLev=5x | DryRun=False
+Nov 28 09:07:34 ubuntu-1gb-fsn1-1 python[18504]: 2026-11-28 09:07:34,347 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: En likit 15 coin tarandi; 4s trend kirilimi veya 15m geri cekilme sinyali olusmadi.
+Nov 28 09:22:52 ubuntu-1gb-fsn1-1 python[18504]: 2026-11-28 09:22:52,625 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: En likit 15 coin tarandi; 4s trend kirilimi veya 15m geri cekilme sinyali olusmadi.
+Nov 28 09:31:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopping gemibot.service - Gemini BingX DEMO Vadeli Islem Botu...
+Nov 28 09:31:37 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Deactivated successfully.
+Nov 28 09:31:37 ubuntu-1gb-fsn1-1 systemd[1]: Stopped gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 09:31:37 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 09:31:39 ubuntu-1gb-fsn1-1 python[18877]: 2026-11-28 09:31:39,043 [INFO] Hibrit Bot (Runner dahil) baslatildi | DEMO=https://open-api-vst.bingx.com | Hedge=True | MaxLev=5x | DryRun=False
+Nov 28 09:31:58 ubuntu-1gb-fsn1-1 python[18877]: 2026-11-28 09:31:58,327 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 1 coin tarandi; kurulum olusmadi.
+Nov 28 09:47:17 ubuntu-1gb-fsn1-1 python[18877]: 2026-11-28 09:47:17,649 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 1 coin tarandi; kurulum olusmadi.
+Nov 28 09:53:31 ubuntu-1gb-fsn1-1 systemd[1]: Stopping gemibot.service - Gemini BingX DEMO Vadeli Islem Botu...
+Nov 28 09:53:31 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Deactivated successfully.
+Nov 28 09:53:31 ubuntu-1gb-fsn1-1 systemd[1]: Stopped gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 09:53:31 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
+Nov 28 09:53:32 ubuntu-1gb-fsn1-1 python[19188]: 2026-11-28 09:53:32,771 [INFO] Hibrit Bot (Runner dahil) baslatildi | DEMO=https://open-api-vst.bingx.com | Hedge=True | MaxLev=5x | DryRun=False
+Nov 28 09:53:53 ubuntu-1gb-fsn1-1 python[19188]: 2026-11-28 09:53:53,564 [INFO] KARAR [DEMO_CANLI]: BEKLE | coin=None | Sonuc: BEKLE | Gerekce: Ana 15 + firsat cebi 5 coin tarandi; kurulum olusmadi.
