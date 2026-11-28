@@ -140,3 +140,6 @@ Nov 28 12:05:31 ubuntu-1gb-fsn1-1 systemd[1]: gemibot.service: Consumed 1.690s C
 Nov 28 12:05:31 ubuntu-1gb-fsn1-1 systemd[1]: Started gemibot.service - Gemini BingX DEMO Vadeli Islem Botu.
 Nov 28 12:05:33 ubuntu-1gb-fsn1-1 python[21353]: 2026-11-28 12:05:33,169 [INFO] Hibrit Bot (Runner dahil) baslatildi | DEMO=https://open-api-vst.bingx.com | Hedge=True | MaxLev=5x | DryRun=False
 Nov 28 12:06:05 ubuntu-1gb-fsn1-1 python[21353]: 2026-11-28 12:06:05,538 [INFO] KARAR [DEMO_CANLI]: BEKLE | Sinyal adaylari filtre veya pozisyon siniri nedeniyle acilmadi.
+Nov 28 12:21:55 ubuntu-1gb-fsn1-1 python[21353]: 2026-11-28 12:21:55,031 [INFO] KARAR [DEMO_CANLI]: BEKLE | Sinyal adaylari filtre veya pozisyon siniri nedeniyle acilmadi.
+Nov 28 12:37:39 ubuntu-1gb-fsn1-1 python[21353]: 2026-11-28 12:37:39,145 [INFO] KARAR [DEMO_CANLI]: BEKLE | Sinyal adaylari filtre veya pozisyon siniri nedeniyle acilmadi.
+Nov 28 12:53:06 ubuntu-1gb-fsn1-1 python[21353]: 2026-11-28 12:53:06,774 [INFO] KARAR [DEMO_CANLI]: AC | coin=BTW-USDT yon=LONG lev=2 SL=1.3489 TP=None | ACILDI: BTW-USDT:LONG (firsat_cebi_runner) qty=2134.0 2x SL_ID=2126660656786137088 TP_ID=IZ_SUREN
